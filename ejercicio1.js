@@ -1,4 +1,4 @@
-var teamName = 'Preparación';
+var teamName = 'formación';
 var people = [ 'Amalia', 'Karla', 'Silvana', 'Manu', 'Jonh', 'Mike'];
 var mensaje1 = `Hay 6 personas en el equipo de ${teamName}`;
 var mensaje2 = `Ellos son ${people}`;
